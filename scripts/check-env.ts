@@ -21,7 +21,7 @@ if (fs.existsSync(envLocalPath)) {
   console.log('📄 Loaded .env');
 } else {
   console.log('⚠️  No .env file found!');
-  console.log('   Create a .env file in nextjs_space/ with:');
+  console.log('   Create a .env file in the project root directory with:');
   console.log('   EMAIL_USER=your-email@gmail.com');
   console.log('   EMAIL_PASSWORD=your-app-password');
   console.log('   EMAIL_HOST=smtp.gmail.com');
@@ -67,7 +67,7 @@ if (allOk) {
 } else {
   console.log('\n❌ Some environment variables are missing!');
   console.log('\n🔧 To fix:');
-  console.log('   1. Create or edit nextjs_space/.env');
+  console.log('   1. Create or edit .env');
   console.log('   2. Add the missing variables');
   console.log('   3. Restart your dev server (yarn dev)');
   console.log('\n📝 Example .env file:');
