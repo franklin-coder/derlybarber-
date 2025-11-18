@@ -54,7 +54,7 @@ export function AboutSection() {
               {/* Main Image */}
               <div className="aspect-[4/5] relative rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="https://cdn.abacus.ai/images/9d6f492b-6e2c-4b74-b6ce-5f8adc46ebe2.png"
+                  src="/derly-owner.png"
                   alt="Derly - Professional Latina barber in Montreal"
                   fill
                   className="object-cover"
@@ -65,7 +65,7 @@ export function AboutSection() {
               {/* Floating Card */}
               <div className="absolute -bottom-6 -right-6 bg-white rounded-2xl p-6 shadow-xl border border-derly-beige">
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-derly-brown-dark mb-1">5+</div>
+                  <div className="text-3xl font-bold text-derly-brown-dark mb-1">3+</div>
                   <div className="text-sm text-gray-600">Years of Experience</div>
                 </div>
                 <div className="border-t border-gray-200 my-3"></div>

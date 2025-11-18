@@ -24,14 +24,14 @@ export function ServicesSection() {
       title: t('traditionalCut'),
       description: t('traditionalCutDesc'),
       price: t('traditionalCutPrice') + " CAD + tax",
-      image: "/gallery-haircut-1.jpeg"
+      image: "/clasico_adulto.jpeg"
     },
     {
       icon: Scissors,
       title: t('traditionalCutBeard'),
       description: t('traditionalCutBeardDesc'),
       price: t('traditionalCutBeardPrice') + " CAD + tax",
-      image: "/gallery-haircut-2.jpeg"
+      image: "/tradicionalmasbarba.jpeg"
     },
     {
       icon: Star,
@@ -52,14 +52,14 @@ export function ServicesSection() {
       title: t('skinfadeBeard'),
       description: t('skinfadeBeardDesc'),
       price: t('skinfadeBeardPrice') + " CAD + tax",
-      image: "/gallery-haircut-5.jpeg"
+      image: "/skinfade-beard.jpeg"
     },
     {
       icon: Droplets,
       title: t('fullBeard'),
       description: t('fullBeardDesc'),
       price: t('fullBeardPrice') + " CAD + tax",
-      image: "/gallery-haircut-6.jpeg"
+      image: "/service-beard.jpg"
     },
   ];
 
@@ -70,14 +70,14 @@ export function ServicesSection() {
       title: t('kidsTraditional'),
       description: t('kidsTraditionalDesc'),
       price: t('kidsTraditionalPrice') + " CAD + tax",
-      image: "/gallery-haircut-7.jpeg"
+      image: "/cortenino.jpeg"
     },
     {
       icon: Star,
       title: t('kidsFade'),
       description: t('kidsFadeDesc'),
       price: t('kidsFadePrice') + " CAD + tax",
-      image: "/gallery-haircut-3.jpeg"
+      image: "/kidstaper.jpeg"
     },
     {
       icon: Sparkles,

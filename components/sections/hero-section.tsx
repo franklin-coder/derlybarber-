@@ -34,7 +34,7 @@ export function HeroSection() {
       <div className="absolute inset-0">
         <div className="relative w-full h-full">
           <Image
-            src="https://cdn.abacus.ai/images/348137fd-2a22-45e5-832a-a9c9229f80d2.png"
+            src="female-barber-hero.png"
             alt="Female barber cutting client's hair - Professional barbershop"
             fill
             className="object-cover"

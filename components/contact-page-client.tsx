@@ -58,12 +58,12 @@ export function ContactPageClient() {
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">WhatsApp</h3>
                       <a 
-                        href="https://wa.me/573002437648" 
+                        href="https://wa.me/1514467259" 
                         className="text-derly-brown-dark hover:text-derly-brown transition-colors"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        +57 300 2437648
+                        +1 514467259
                       </a>
                     </div>
                   </div>
