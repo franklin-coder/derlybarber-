@@ -67,7 +67,7 @@ export function CTASection() {
             </Link>
 
             <a 
-              href="https://wa.me/573002437648" 
+              href="https://wa.me/1514467259" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-block"
