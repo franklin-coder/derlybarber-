@@ -7,7 +7,10 @@
     "start": "next start",
     "lint": "next lint",
     "check-env": "tsx scripts/check-env.ts",
-    "test-db": "tsx --require dotenv/config scripts/test-supabase-connection.ts"
+    "test-db": "tsx --require dotenv/config scripts/test-supabase-connection.ts",
+    "generate-secret": "node scripts/generate-nextauth-secret.js",
+    "verify-env": "node scripts/verify-env.js",
+    "setup-db": "prisma generate && prisma db push"
   },
   "prisma": {
     "seed": "tsx --require dotenv/config scripts/seed.ts"
