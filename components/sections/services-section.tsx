@@ -24,14 +24,14 @@ export function ServicesSection() {
       title: t('traditionalCut'),
       description: t('traditionalCutDesc'),
       price: t('traditionalCutPrice') + " CAD + tax",
-      image: "/clasico_adulto.jpeg"
+      image: "/tradicionalmasbarba.jpeg"
     },
     {
       icon: Scissors,
       title: t('traditionalCutBeard'),
       description: t('traditionalCutBeardDesc'),
       price: t('traditionalCutBeardPrice') + " CAD + tax",
-      image: "/tradicionalmasbarba.jpeg"
+      image: "/clasico_adulto.jpeg"
     },
     {
       icon: Star,

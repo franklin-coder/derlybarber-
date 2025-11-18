@@ -121,7 +121,7 @@ export function ContactPageClient() {
                       Book Appointment Online
                     </a>
                     <a 
-                      href="https://wa.me/573002437648" 
+                      href="https://wa.me/1514467259" 
                       className="block w-full border border-derly-brown-dark text-derly-brown-dark hover:bg-derly-beige-light py-3 px-4 rounded-lg text-center font-medium transition-colors"
                       target="_blank"
                       rel="noopener noreferrer"
