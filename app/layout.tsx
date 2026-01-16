@@ -17,11 +17,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Derly — Barbería Latina | Professional Barbershop in Montreal',
     description: 'Professional barbering with Latin warmth. Multilingual service in English, Spanish & French.',
-    url: 'https://derly-barbershop.com',
+    url: 'https://derly-barbershop.com', 
     siteName: 'Derly Barbería Latina',
     images: [
       {
-        url: '/og-image.png',
+        url: '/derly-logo.png',
         width: 1200,
         height: 630,
         alt: 'Derly Barbería Latina - Professional Barbershop Montreal'

@@ -57,7 +57,7 @@ export function HeroSection() {
               <div className="flex items-center space-x-4 mb-6">
                 <div className="relative w-16 h-16">
                   <Image
-                    src="https://cdn.abacus.ai/images/ba61d56d-233b-4930-a18b-edb766c98798.png"
+                    src="/derly-logo.png"
                     alt="Derly Logo"
                     fill
                     className="object-contain"
