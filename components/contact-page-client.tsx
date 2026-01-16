@@ -77,10 +77,10 @@ export function ContactPageClient() {
                     <div>
                       <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
                       <a 
-                        href="mailto:franklin.tejadag@gmail.com" 
+                        href="mailto:derllybarber@gmail.com" 
                         className="text-derly-brown-dark hover:text-derly-brown transition-colors"
                       >
-                        franklin.tejadag@gmail.com
+                        derllybarber@gmail.com
                       </a>
                     </div>
                   </div>
