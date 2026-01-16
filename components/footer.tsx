@@ -74,14 +74,14 @@ export function Footer() {
               </li>
               <li className="flex items-center text-sm text-gray-400">
                 <Phone className="w-4 h-4 mr-2 text-derly-brown-light" />
-                <a href="tel:+15144672596" className="hover:text-derly-brown-light transition-colors">
+                <a href="tel:+15144677259" className="hover:text-derly-brown-light transition-colors">
                   +1 (514) 467-2596
                 </a>
               </li>
               <li className="flex items-center text-sm text-gray-400">
                 <Mail className="w-4 h-4 mr-2 text-derly-brown-light" />
-                <a href="mailto:franklin.tejadag@gmail.com" className="hover:text-derly-brown-light transition-colors">
-                  franklin.tejadag@gmail.com
+                <a href="mailto: derllybarber@gmail.com" className="hover:text-derly-brown-light transition-colors">
+                   derllybarber@gmail.com
                 </a>
               </li>
             </ul>
